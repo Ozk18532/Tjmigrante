@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "nombre": "Instituto Nacional de Migración",
     "direccion": "Av. Insurgentes #16000, col. Los Álamos",
     "telefono": "6646829862",
@@ -8,9 +9,10 @@
     "googleMaps": "https://maps.app.goo.gl/6qwpbRrnTCD4NCiVA"
   },
   {
+    "id": "2",
     "nombre": "COMAR, Comisión Mexicana de Ayuda a Refugiados",
     "direccion": "Av. Venustiano Carranza #6250, col. Castillo",
-    "telefono": "",
+    "telefono": "5580559208",
     "informacion": "Atención general para procedimiento de la condición de refugiado en México.",
     "horario": "Lunes, martes y viernes de 9 a.m. a 1 p.m., Miércoles: inicio de procedimiento, Jueves: solo con cita.",
     "googleMaps": "https://maps.app.goo.gl/F9Dw4W4ZFEHw88aT9"
