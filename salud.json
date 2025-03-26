@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "nombre": "Refugee Health Alliance (RHA): Clínica de resistencia en Salud",
     "direccion": "Av. Miguel Negrete #8350, Zona Río (junto al pasillo de la capilla Calvary Chapel)",
     "telefono": "6641157709",
@@ -8,6 +9,7 @@
     "googleMaps": "https://maps.app.goo.gl/QAftdA2pfgRi4D6E8"
   },
   {
+    "id": "2",
     "nombre": "RHA: Justicia en Salud (Parteras)",
     "direccion": "Av. Miguel Negrete #8350, Zona Río (junto al pasillo de la capilla Calvary Chapel)",
     "telefono": "6643458358",
@@ -16,6 +18,7 @@
     "googleMaps": "https://maps.app.goo.gl/QAftdA2pfgRi4D6E8"
   },
   {
+    "id": "3",
     "nombre": "PREVENCASA A.C.",
     "direccion": "Calle Baja California #7580, entre calle Mutualismo y 5 de mayo, col. Centro, Zona Norte",
     "telefono": "6646853392",
