@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "nombre": "Asylum Access México (Ruta de la hospitalidad)",
     "direccion": "Av. Constitución #1235-interior 305, Zona Centro",
     "telefono": "6632005948",
@@ -8,6 +9,7 @@
     "googleMaps": "https://maps.app.goo.gl/DPgqtrFxcRL15VPy8"
   },
   {
+    "id": "2",
     "nombre": "CESFOM",
     "direccion": "Calle Ernesto Sarmiento #2800, col. Burocrática Ruiz Cortinez",
     "telefono": "6646826882 / 6645997696",
@@ -16,6 +18,7 @@
     "googleMaps": "https://maps.app.goo.gl/NJMJeSw5nGs2Pzry6"
   },
   {
+    "id": "3",
     "nombre": "Programa Binacional de Educación Migrante (PROBEM)",
     "direccion": "P. del Centenario 10150, Centro",
     "telefono": "6649734437",
