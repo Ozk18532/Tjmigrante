@@ -5,7 +5,7 @@
     "telefono": "6642333018",
     "informacion": "Asistencia jurídica gratuita para asilo en México y Estados Unidos. Atención por llamadas y WhatsApp.",
     "horario": "Lunes a Viernes 9 a.m. a 4:30 p.m.",
-    "googleMaps": ""
+    "googleMaps": "https://maps.app.goo.gl/Djc35HZtFZL4uR4f6"
   },
   {
     "nombre": "Al Otro Lado",
@@ -13,7 +13,7 @@
     "telefono": "6641946209",
     "informacion": "Asistencia jurídica gratuita para asilo en Estados Unidos. Apoyo en reunificación familiar. Solo mensajes y WhatsApp.",
     "horario": "Sin horario fijo (contacto por mensaje)",
-    "googleMaps": ""
+    "googleMaps": "https://maps.app.goo.gl/hA5riUng5KUEfLTh9"
   },
   {
     "nombre": "Transgender Law Center (TLC)",
@@ -21,6 +21,6 @@
     "telefono": "6643582763",
     "informacion": "Información y asesoría legal de asilo en Estados Unidos para población LGBT+.",
     "horario": "No especificado",
-    "googleMaps": ""
+    "googleMaps": "https://maps.app.goo.gl/kxXfE3yUReULngxp9"
   }
 ]
