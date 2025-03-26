@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "nombre": "HIAS",
     "direccion": "Atención remota",
     "telefono": "6642333018",
@@ -8,6 +9,7 @@
     "googleMaps": "https://maps.app.goo.gl/Djc35HZtFZL4uR4f6"
   },
   {
+    "id": "2",
     "nombre": "Al Otro Lado",
     "direccion": "Atención remota desde Tijuana",
     "telefono": "6641946209",
@@ -16,6 +18,7 @@
     "googleMaps": "https://maps.app.goo.gl/hA5riUng5KUEfLTh9"
   },
   {
+    "id": "3",
     "nombre": "Transgender Law Center (TLC)",
     "direccion": "Atención remota",
     "telefono": "6643582763",
