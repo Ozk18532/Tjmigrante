@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Asylum Access México (Ruta de la hospitalidad)",
+    "direccion": "Av. Constitución #1235-interior 305, Zona Centro",
+    "telefono": "6632005948",
+    "informacion": "Asesoría gratuita sobre salud, educación y empleo para personas solicitantes y refugiadas en México. Atención con cita o por teléfono.",
+    "horario": "Lunes a viernes de 9 a.m. a 6 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "CESFOM",
+    "direccion": "Calle Ernesto Sarmiento #2800, col. Burocrática Ruiz Cortinez",
+    "telefono": "6646826882 / 6645997696",
+    "informacion": "Cursos educativos gratuitos para adultos y personas migrantes. Inscripciones y clases presenciales.",
+    "horario": "Lunes a viernes 10 a.m. a 7 p.m., Sábados y domingos 12 p.m. a 8 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Programa Binacional de Educación Migrante (PROBEM)",
+    "direccion": "P. del Centenario 10150, Centro",
+    "telefono": "6649734437",
+    "informacion": "Apoyo en la inscripción escolar básica para niños, niñas y adolescentes.",
+    "horario": "Lunes a viernes de 9 a.m. a 2 p.m.",
+    "googleMaps": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "nombre": "HIAS",
+    "direccion": "Atención remota",
+    "telefono": "6862444160 / 6861144402",
+    "informacion": "Apoyo psicosocial. Atención a personas en riesgo o sobrevivientes de violencia basada en género. Servicios gratuitos.",
+    "horario": "Lunes a Viernes 8:30 a.m. a 4 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Red de salud mental de Baja California",
+    "direccion": "Ave. Fortín de las Flores #5, col. Fortín de las Flores",
+    "telefono": "6642968681",
+    "informacion": "Apoyo psicosocial y acompañamiento emocional gratuito y confidencial.",
+    "horario": "Lunes a viernes 9 a.m. a 8 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Families Belong Together",
+    "direccion": "Av. Río Tijuana #1106, col. Revolución",
+    "telefono": "6646865925 / 6646953327",
+    "informacion": "Atención psicológica gratuita y confidencial.",
+    "horario": "Lunes a viernes 10 a.m. a 4 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "RHA: Salud Mental",
+    "direccion": "Av. Miguel Negrete #8350, Zona Río (junto al pasillo de la capilla Calvary Chapel)",
+    "telefono": "6641157709",
+    "informacion": "Atención psicosocial gratuita. Atención presencial.",
+    "horario": "Lunes a jueves, 10 a.m. a 5 p.m.",
+    "googleMaps": ""
+  }
+]

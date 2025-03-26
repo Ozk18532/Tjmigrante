@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Refugee Health Alliance (RHA): Clínica de resistencia en Salud",
+    "direccion": "Av. Miguel Negrete #8350, Zona Río (junto al pasillo de la capilla Calvary Chapel)",
+    "telefono": "6641157709",
+    "informacion": "Consulta médica general y orientación psicosocial gratuita. Filtro de agua potable para beber gratis. Atención presencial sin cita.",
+    "horario": "Lunes a jueves, 10 a.m. a 5 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "RHA: Justicia en Salud (Parteras)",
+    "direccion": "Av. Miguel Negrete #8350, Zona Río (junto al pasillo de la capilla Calvary Chapel)",
+    "telefono": "6643458358",
+    "informacion": "Salud sexual y reproductiva, cuidado prenatal, parto, posparto, lactancia, planificación familiar. Servicios gratuitos y atención presencial.",
+    "horario": "Lunes a jueves, 9:30 a.m. a 4:30 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "PREVENCASA A.C.",
+    "direccion": "Calle Baja California #7580, entre calle Mutualismo y 5 de mayo, col. Centro, Zona Norte",
+    "telefono": "6646853392",
+    "informacion": "Atención médica gratuita, detección de VIH, nutrición clínica, agua potable y regaderas comunitarias. Atención sin cita, excepto después de 1:40 p.m.",
+    "horario": "Lunes a viernes, 9 a.m. a 2 p.m.",
+    "googleMaps": ""
+  }
+]

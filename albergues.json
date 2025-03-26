@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Casa del Migrante en Tijuana, A.C.",
+    "direccion": "Calle Galileo No. 239, col. Postal, Tijuana",
+    "telefono": "6646825180",
+    "informacion": "Atención a migrantes deportados, desplazados, en tránsito o refugiados. Alojamiento, alimentos, higiene, atención médica y psicológica.",
+    "horario": "Lunes a domingo 9 a.m. a 9 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Ejército de Salvación para hombres",
+    "direccion": "Av. Aquiles Serdán #11585, col. Libertad parte baja",
+    "telefono": "6646832694",
+    "informacion": "Albergue gratuito para hombres. Orientación gratuita para retorno voluntario. Enviados por ACNUR y OIM.",
+    "horario": "Lunes a domingo 8 a.m. a 10 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Casa YMCA",
+    "direccion": "Blv. Cuauhtémoc sur #3170, col. Chula Vista",
+    "telefono": "6646861359",
+    "informacion": "Albergue para niños, niñas y adolescentes no acompañados. Ofrece alimentación, hospedaje, atención médica, psicológica, legal y educativa.",
+    "horario": "Lunes a sábado 9 a.m. a 5 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Espacio Migrante",
+    "direccion": "Av. Miguel Negrete #8350, Zona Urbana Río",
+    "telefono": "6646073458",
+    "informacion": "Albergue para familias, niños y adolescentes no acompañados. Canalizados por instituciones como ACNUR, OIM y DIF.",
+    "horario": "Lunes a sábado 7 a.m. a 8 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Albergue Jardín de las Mariposas",
+    "direccion": "Calle Silverio Alemán #47, col. Postal",
+    "telefono": "6645249217",
+    "informacion": "Centro de rehabilitación para migrantes y refugiados de la comunidad LGBT. Canalizados por OIM y ACNUR.",
+    "horario": "Lunes a domingo 8 a.m. a 5 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Madre Asunta",
+    "direccion": "Calle Galileo #2305, col. Postal",
+    "telefono": "6646830575",
+    "informacion": "Atención a mujeres solas y con niños. Servicio de hospedaje gratuito. Ingreso a través del hotel filtro de OIM y ACNUR.",
+    "horario": "Lunes a domingo 9 a.m. a 5 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Ejército de Salvación A.C. Puerta de Esperanza",
+    "direccion": "Tijuana",
+    "telefono": "6643781748",
+    "informacion": "Albergue gratuito para mujeres, niños y niñas. Referidos por OIM tras pasar por el hotel filtro.",
+    "horario": "Lunes a domingo de 8 a.m. a 6 p.m.",
+    "googleMaps": ""
+  }
+]

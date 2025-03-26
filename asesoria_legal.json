@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "HIAS",
+    "direccion": "Atención remota",
+    "telefono": "6642333018",
+    "informacion": "Asistencia jurídica gratuita para asilo en México y Estados Unidos. Atención por llamadas y WhatsApp.",
+    "horario": "Lunes a Viernes 9 a.m. a 4:30 p.m.",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Al Otro Lado",
+    "direccion": "Atención remota desde Tijuana",
+    "telefono": "6641946209",
+    "informacion": "Asistencia jurídica gratuita para asilo en Estados Unidos. Apoyo en reunificación familiar. Solo mensajes y WhatsApp.",
+    "horario": "Sin horario fijo (contacto por mensaje)",
+    "googleMaps": ""
+  },
+  {
+    "nombre": "Transgender Law Center (TLC)",
+    "direccion": "Atención remota",
+    "telefono": "6643582763",
+    "informacion": "Información y asesoría legal de asilo en Estados Unidos para población LGBT+.",
+    "horario": "No especificado",
+    "googleMaps": ""
+  }
+]
