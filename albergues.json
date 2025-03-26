@@ -1,5 +1,6 @@
 [
-  {
+  { 
+    "id": "1",
     "nombre": "Casa del Migrante en Tijuana, A.C.",
     "direccion": "Calle Galileo No. 239, col. Postal, Tijuana",
     "telefono": "6646825180",
@@ -8,6 +9,7 @@
     "googleMaps": "https://maps.app.goo.gl/sxSrfUwgYyYk6ahV6"
   },
   {
+    "id": "2",
     "nombre": "Ejército de Salvación para hombres",
     "direccion": "Av. Aquiles Serdán #11585, col. Libertad parte baja",
     "telefono": "6646832694",
@@ -16,6 +18,7 @@
     "googleMaps": "https://maps.app.goo.gl/95YwbxjbJbQ5D7Sw6"
   },
   {
+    "id": "3",
     "nombre": "Casa YMCA",
     "direccion": "Blv. Cuauhtémoc sur #3170, col. Chula Vista",
     "telefono": "6646861359",
@@ -24,6 +27,7 @@
     "googleMaps": "https://maps.app.goo.gl/oMmyTL9HXTHmJgNG6"
   },
   {
+    "id": "4",
     "nombre": "Espacio Migrante",
     "direccion": "Av. Miguel Negrete #8350, Zona Urbana Río",
     "telefono": "6646073458",
@@ -32,6 +36,7 @@
     "googleMaps": "https://maps.app.goo.gl/hpRdoNkq61R4s7gM9"
   },
   {
+    "id": "5",
     "nombre": "Albergue Jardín de las Mariposas",
     "direccion": "Calle Silverio Alemán #47, col. Postal",
     "telefono": "6645249217",
@@ -40,6 +45,7 @@
     "googleMaps": "https://maps.app.goo.gl/sUfS2vVqMZALeoMa7"
   },
   {
+    "id": "6",
     "nombre": "Madre Asunta",
     "direccion": "Calle Galileo #2305, col. Postal",
     "telefono": "6646830575",
@@ -48,6 +54,7 @@
     "googleMaps": "https://maps.app.goo.gl/XJzkArtQXi4BpGtE8"
   },
   {
+    "id": "7",
     "nombre": "Ejército de Salvación A.C. Puerta de Esperanza",
     "direccion": "Tijuana",
     "telefono": "6643781748",
