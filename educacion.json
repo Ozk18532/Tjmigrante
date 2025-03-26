@@ -5,7 +5,7 @@
     "telefono": "6632005948",
     "informacion": "Asesoría gratuita sobre salud, educación y empleo para personas solicitantes y refugiadas en México. Atención con cita o por teléfono.",
     "horario": "Lunes a viernes de 9 a.m. a 6 p.m.",
-    "googleMaps": ""
+    "googleMaps": "https://maps.app.goo.gl/DPgqtrFxcRL15VPy8"
   },
   {
     "nombre": "CESFOM",
@@ -13,7 +13,7 @@
     "telefono": "6646826882 / 6645997696",
     "informacion": "Cursos educativos gratuitos para adultos y personas migrantes. Inscripciones y clases presenciales.",
     "horario": "Lunes a viernes 10 a.m. a 7 p.m., Sábados y domingos 12 p.m. a 8 p.m.",
-    "googleMaps": ""
+    "googleMaps": "https://maps.app.goo.gl/NJMJeSw5nGs2Pzry6"
   },
   {
     "nombre": "Programa Binacional de Educación Migrante (PROBEM)",
@@ -21,6 +21,6 @@
     "telefono": "6649734437",
     "informacion": "Apoyo en la inscripción escolar básica para niños, niñas y adolescentes.",
     "horario": "Lunes a viernes de 9 a.m. a 2 p.m.",
-    "googleMaps": ""
+    "googleMaps": "https://maps.app.goo.gl/v5KJisyr3cKLNtyw6"
   }
 ]
