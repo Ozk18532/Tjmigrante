@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "nombre": "OIM, Organización Internacional para las Migraciones",
     "direccion": "Atención remota",
     "telefono": "5544549031 / 5580719075 / 5553320230 / 5553320643",
@@ -8,6 +9,7 @@
     "googleMaps": "https://maps.app.goo.gl/8C7VGqqzaznTyhQP9"
   },
   {
+    "id": "2",
     "nombre": "ACNUR, la Agencia de la ONU para los Refugiados",
     "direccion": "Blvd. Sánchez Taboada #10488, Oficinas 819 – 820, Zona Urbana Río",
     "telefono": "6645183207",
